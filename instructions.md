@@ -1,0 +1,3 @@
+to install requirements.txt:
+
+pip install -r requirements.txt --index-url https://download.pytorch.org/whl/cpu --extra-index-url https://pypi.org/simple
